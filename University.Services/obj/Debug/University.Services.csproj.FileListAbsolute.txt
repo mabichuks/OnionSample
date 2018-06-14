@@ -1,0 +1,14 @@
+c:\users\mabic\source\repos\IUniversity\University.Services\obj\Debug\University.Services.csproj.CoreCompileInputs.cache
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\University.Services.dll
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\University.Services.pdb
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\University.Domain.dll
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\University.Infrastructure.dll
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\EntityFramework.dll
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\University.Domain.pdb
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\University.Infrastructure.pdb
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\University.Infrastructure.dll.config
+c:\users\mabic\source\repos\IUniversity\University.Services\bin\Debug\EntityFramework.xml
+c:\users\mabic\source\repos\IUniversity\University.Services\obj\Debug\University.Services.csprojResolveAssemblyReference.cache
+c:\users\mabic\source\repos\IUniversity\University.Services\obj\Debug\University.Services.csproj.CopyComplete
+c:\users\mabic\source\repos\IUniversity\University.Services\obj\Debug\University.Services.dll
+c:\users\mabic\source\repos\IUniversity\University.Services\obj\Debug\University.Services.pdb

@@ -1,0 +1,6 @@
+c:\users\mabic\source\repos\IUniversity\University.Domain\bin\Debug\University.Domain.dll
+c:\users\mabic\source\repos\IUniversity\University.Domain\bin\Debug\University.Domain.pdb
+c:\users\mabic\source\repos\IUniversity\University.Domain\obj\Debug\University.Domain.csprojResolveAssemblyReference.cache
+c:\users\mabic\source\repos\IUniversity\University.Domain\obj\Debug\University.Domain.csproj.CoreCompileInputs.cache
+c:\users\mabic\source\repos\IUniversity\University.Domain\obj\Debug\University.Domain.dll
+c:\users\mabic\source\repos\IUniversity\University.Domain\obj\Debug\University.Domain.pdb
